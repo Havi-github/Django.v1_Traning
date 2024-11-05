@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-miystmqpal9)pv04t=%5b1j#5e@y=@xuohwdl7rcx$8l2r%)m0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['CMS_project.onrender.com'] #insert the host addrase on this section django-v1-traning-2.onrender.com
+ALLOWED_HOSTS = ['django-v1-traning-3.onrender.com'] #insert the host addrase on this section django-v1-traning-2.onrender.com
 
 
 # Application definition
