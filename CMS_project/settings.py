@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-miystmqpal9)pv04t=%5b1j#5e@y=@xuohwdl7rcx$8l2r%)m0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['CMS_project.onrebder.com'] #insert the host addrase on this section
 
