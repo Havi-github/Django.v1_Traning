@@ -1,2 +1,2 @@
-# Django.v1_Traning
+# Django.v1
 Student Register system
